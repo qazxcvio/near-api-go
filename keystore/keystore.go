@@ -10,7 +10,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/aurora-is-near/near-api-go/utils"
+	"github.com/qazxcvio/near-api-go/utils"
 )
 
 // Ed25519KeyPair is an Ed25519 key pair.

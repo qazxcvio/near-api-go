@@ -1,6 +1,4 @@
 github.com/aead/siphash v1.0.1/go.mod h1:Nywa3cDsYNNK3gaciGTWPwHt0wlpNV15vwmswBAUSII=
-github.com/aurora-is-near/go-jsonrpc/v3 v3.1.2 h1:GKX/ga2vElkJYHSIpWEGsW3Z5c0xFx6bnXkSsU30GXg=
-github.com/aurora-is-near/go-jsonrpc/v3 v3.1.2/go.mod h1:Li013EFlPu3crtlFQtWJAeE7VmdhSsxOpRoop1J0icw=
 github.com/btcsuite/btcd v0.20.1-beta/go.mod h1:wVuoA8VJLEcwgqHBwHmzLRazpKxTv13Px/pDuV7OomQ=
 github.com/btcsuite/btcd v0.22.0-beta.0.20220111032746-97732e52810c/go.mod h1:tjmYdS6MLJ5/s0Fj4DbLgSbDHbEqLJrtnHecBFkdz5M=
 github.com/btcsuite/btcd v0.23.5-0.20231215221805-96c9fd8078fd h1:js1gPwhcFflTZ7Nzl7WHaOTlTr5hIrR4n1NM4v9n4Kw=
@@ -63,6 +61,8 @@ github.com/onsi/gomega v1.7.1/go.mod h1:XdKZgCCFLUoM/7CFJVPcG8C1xQ1AJ0vpAezJrB7J
 github.com/onsi/gomega v1.10.1 h1:o0+MgICZLuZ7xjH7Vx6zS/zcu93/BEp1VwkIW1mEXCE=
 github.com/onsi/gomega v1.10.1/go.mod h1:iN09h71vgCQne3DLsj+A5owkum+a2tYe+TOCB1ybHNo=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/qazxcvio/go-jsonrpc/v3 v3.0.1 h1:Kh32tfQ2lHHI6PXd31ROIZ7ut/y+wMPffSXaIfYgaYM=
+github.com/qazxcvio/go-jsonrpc/v3 v3.0.1/go.mod h1:Naq9Qql3B+6vDMz4cy9ymAmj9/dVo4eFXAEYfUypdxY=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7/go.mod h1:q4W45IWZaF22tdD+VEXcAWRA037jwmWEB5VWYORlTpc=

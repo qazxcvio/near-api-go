@@ -5,10 +5,9 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
+	"github.com/qazxcvio/go-jsonrpc/v3"
 	"net/http"
 	"time"
-
-	"github.com/aurora-is-near/go-jsonrpc/v3"
 )
 
 // Connection allows to do JSON-RPC to a NEAR endpoint.

@@ -9,7 +9,6 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/aurora-is-near/near-api-go"
 	"github.com/btcsuite/btcd/btcutil/base58"
 	"github.com/davecgh/go-spew/spew"
 )

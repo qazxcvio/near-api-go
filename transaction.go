@@ -7,8 +7,8 @@ import (
 	"crypto/sha256"
 	"math/big"
 
-	"github.com/aurora-is-near/near-api-go/utils"
 	"github.com/near/borsh-go"
+	"github.com/qazxcvio/near-api-go/utils"
 )
 
 // AccessKey encodes a NEAR access key.

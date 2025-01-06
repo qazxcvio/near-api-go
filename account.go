@@ -9,10 +9,10 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/aurora-is-near/near-api-go/keystore"
-	"github.com/aurora-is-near/near-api-go/utils"
 	"github.com/btcsuite/btcd/btcutil/base58"
 	"github.com/near/borsh-go"
+	"github.com/qazxcvio/near-api-go/keystore"
+	"github.com/qazxcvio/near-api-go/utils"
 )
 
 // Default number of retries with different nonce before giving up on a transaction.

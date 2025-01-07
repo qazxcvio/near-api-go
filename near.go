@@ -112,6 +112,20 @@ func (c *Connection) GetBlockByID(blockID uint64) (map[string]interface{}, error
 	return r, nil
 }
 
+func (c *Connection) GetChunkByID(chunkID string) (map[string]interface{}, error) {
+	res, err := c.call("chunk", map[string]interface{}{
+		"chunk_id": chunkID,
+	})
+	if err != nil {
+		return nil, err
+	}
+	r, ok := res.(map[string]interface{})
+	if !ok {
+		return nil, ErrNotObject
+	}
+	return r, nil
+}
+
 // GetNodeStatus returns general status of a given node.
 //
 // For details see
